@@ -1,5 +1,4 @@
-## On May 12th 2018, Bitcoinfive.com stole 0.0254 BTC from me, claiming to be following "anti-money laundering laws".
-### _I'd like to get my money back._
+## On May 12th 2018, Bitcoinfive.com stole 0.0254 BTC from me, claiming to be following "anti-money laundering laws". _I'd like to get my money back._
 
 I had recently decided to cash out some of my BTC, and after searching through potential websites (Coinbase restricted my account for no specific reason), I came across Bitcoinfive.com.
 The design of the site looks professional, and although the pictures used for the people writing testimonials look like stock photos, I didn't think much of it.
@@ -17,6 +16,8 @@ According to the previously mentioned Companies House site, "GX MONEY CAPITAL LT
 One thing I found intresting about the Companies House listing is that the only name mentioned in the Companies registration is a "LACZO, Janos". Whenever I recieved an email from BitcoinFive, each email would be signed by a different person, like "Khaled Biyari (CFC, Risk Management, GX Money Capital LTD)" for example. A quick Google search yeilds no information about "Khaled Biyari" or "Janos Laczo", and I would expect some what of a SEO presence for someone who is involved in the cryptocurrency/technology industry.
 Not to mention the fact that none of the people seemingly composing BCF's emails are mentioned in the Companies House listing.
 #### Online reviews are suspect
-One of the first things
+One of the first things you see when you Google search "BitcoinFive.com" is a listing from an online review site that boosts the amazing rating of 4.5 stars.
+Once I actually read into these reviews, I realized something weird-- Reviews were either "This site is amazing, 5 stars" or "This site is a scam, 1 star". Even on sites that I've used the exchange BTC for USD, that are real and everything, often don't have 5 star reviews. Often you'd see something like "Transaction took 2 hours, 3 stars", as companies aren't perfect-- mistakes can be made. But BCF's reviews are either black or white, no inbetween.
 
-#### Note: This is what happened to me. My intention is not to defame anyone/any company in a false/liablous manner. I am simply telling my experience, and I will continue to update this page if I do get a refund at some point, although based off my current experience I don't think a refund is going to happen. If you work at BitcoinFive and think that this was just a misunderstanding, and would like to correct this whole experience and refund me my money, you can send 0.0254 BTC to 1BYMtJ75Hbz5CQFGgA49ebQKc3tiX7PvCR.
+
+### Note: This is what happened to me. My intention is not to defame anyone/any company in a false/liablous manner. I am simply telling my experience, and I will continue to update this page if I do get a refund at some point, although based off my current experience I don't think a refund is going to happen. If you work at BitcoinFive and think that this was just a misunderstanding, and would like to correct this whole experience and refund me my money, you can send 0.0254 BTC to 1BYMtJ75Hbz5CQFGgA49ebQKc3tiX7PvCR.
